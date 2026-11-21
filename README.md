@@ -62,5 +62,7 @@ The dashboard helps management:
 
 To transform raw customer support data into meaningful business insights that support better operational decision-making.
 
-<img width="1200" height="811" alt="Zrzut ekranu 2026-11-21 o 22 25 14" src="https://github.com/user-attachments/assets/12173c9b-e46a-454c-a149-d4bc1e3ceba0" />
 <img width="1110" height="742" alt="Zrzut ekranu 2026-11-21 o 22 24 52" src="https://github.com/user-attachments/assets/0132db19-4dde-4da3-8e96-1b83afe2c04e" />
+
+<img width="1200" height="811" alt="Zrzut ekranu 2026-11-21 o 22 25 14" src="https://github.com/user-attachments/assets/12173c9b-e46a-454c-a149-d4bc1e3ceba0" />
+
